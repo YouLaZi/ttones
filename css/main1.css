@@ -32,7 +32,6 @@ a{
 /*logo*/
 
 .logo{
-	margin-left: 20px;
 	float:left;
 	width:150px;
 	height:40px;
@@ -102,7 +101,7 @@ li{
 .dropdown {
   position: relative;
   display: inline-block;
-  margin-left: 100px;
+  margin-left: 80px;
 }
 
 .dropdown-content {
